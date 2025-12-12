@@ -3,7 +3,6 @@
 **A Chrome Extension for K-12 Filter Evasion Prevention**
 
 Written by Jim Tyler, Microsoft MVP  
-Director of Technology, Niles Community Schools
 
 ---
 
@@ -157,7 +156,7 @@ If you are forking this project or republishing under your own Chrome Web Store 
 If you discover a security vulnerability in this extension:
 
 1. **Do not** open a public GitHub issue
-2. Email security concerns directly to: jim.tyler@nilesschools.org
+2. Email security concerns directly to: coachjimtyler@gmail.com
 3. Provide detailed information about the vulnerability
 4. Allow reasonable time for a fix before public disclosure
 
@@ -493,7 +492,7 @@ Recommended testing scenarios:
 - Dashboard UI for log viewing
 - Updated declarativeNetRequest rules for emerging threats
 
-**Contact**: jim.tyler@nilesschools.org
+**Contact**: coachjimtyler@gmail.com
 
 **MDE Tech List**: Active discussion and community support on Michigan's educational technology listserv
 
@@ -541,6 +540,5 @@ This extension's approach is informed by industry research including:
 ---
 
 **Written by Jim Tyler, Microsoft MVP**  
-Director of Technology, Niles Community Schools  
 GitHub: https://github.com/jimrtyler/youshallnotpass  
 Chrome Web Store: https://chromewebstore.google.com/detail/you-shall-not-pass-by-jim/efggnkbeomjjanjmghbadggegjemogee
