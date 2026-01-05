@@ -1,6 +1,6 @@
 {
-  "manifest_version": 3,
-  "name": "You Shall Not Pass by Jim Tyler",
+  "manifest_version": 2,
+  "name": "You Shall Not Pass by Jim Tyler, CEO of Inertia",
   "version": "3.0.3",
   "description": "Tab controls. ",
   "permissions": [
